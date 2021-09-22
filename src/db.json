@@ -1,18 +1,4 @@
 {
-    "anggota": [
-        {
-            "id": 1,
-            "nama": "Adriansyah Prasetya Nugraha",
-            "nim": "21120118130098",
-            "teks": "Haloooo!!!"
-        },
-        {
-            "id": 2,
-            "nama": "Dhimas Rasyad Rahardianto ",
-            "nim": "21120118140052",
-            "teks": "Siiiiip!!!"
-        }
-    ],
     "mobil": [
         {
             "id": 1,
