@@ -1,25 +1,24 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserRouter, Link, Route, Switch } from "react-router-dom";
+import Mobil from "./Components/Mobil";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+    <BrowserRouter>
+      <header>
+        <div className="title">
+          <p>Kelompok 11</p>
+        </div>
+        <nav>
+          <Link className="text" to="/Mobil">
+            Daftar Mobil
+          </Link>
+        </nav>
       </header>
-    </div>
+      <Switch>
+        <Route exact path="/" component={Mobil} />
+        <Route path="/Mobil" exact component={Mobil} />
+      </Switch>
+    </BrowserRouter>
   );
 }
-
-export default App;

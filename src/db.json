@@ -1,0 +1,122 @@
+{
+    "anggota": [
+        {
+            "id": 1,
+            "nama": "Adriansyah Prasetya Nugraha",
+            "nim": "21120118130098",
+            "teks": "Haloooo!!!"
+        },
+        {
+            "id": 2,
+            "nama": "Dhimas Rasyad Rahardianto ",
+            "nim": "21120118140052",
+            "teks": "Siiiiip!!!"
+        }
+    ],
+    "mobil": [
+        {
+            "id": 1,
+            "nama": "Suzuki Ertiga 1.5 GL 2018",
+            "gambar": "https://tokoaki.co.id/blog/wp-content/uploads/2020/10/suzuki-ertiga.jpg",
+            "harga": "Rp. 175.000.000",
+            "spec": {
+                "Transmisi": "Matic",
+                "Warna": "Silver",
+                "Kilometer": "55.000 KM",
+                "Mesin": "1500cc",
+                "Kondisi": "Cat Original, Mulus"
+            }
+        },
+        {
+            "id": 2,
+            "nama": "Honda Brio 1.2 E 2019",
+            "gambar": "https://imgx.gridoto.com/crop/0x0:0x0/700x465/filters:watermark(file/2017/gridoto/img/watermark.png,5,5,60)/photo/2019/08/31/2372273878.jpg",
+            "harga": "Rp. 135.000.000",
+            "spec": {
+                "Transmisi": "Manual",
+                "Warna": "Merah",
+                "Kilometer": "16.000 KM",
+                "Mesin": "1200cc",
+                "Kondisi": "Mulus, Kilometer rendah"
+            }
+        },
+        {
+            "id": 3,
+            "nama": "Chevrolet Captiva 2.0 C140 Diesel 2011",
+            "gambar": "https://gambarmobil.com/foto/chevrolet/206786-captiva-2011-2-4-fl-bensin-img-20200325-wa0089.jpg",
+            "harga": "Rp. 129.000.000",
+            "spec": {
+                "Transmisi": "Matic",
+                "Warna": "Hitam",
+                "Kilometer": "115.000 KM",
+                "Mesin": "2000cc",
+                "Kondisi": "Mesin standard, bebas banjir, original"
+            }
+        },
+        {
+            "id": 4,
+            "nama": "Mitsubishi Outlander Sport PX 2.0 2014",
+            "gambar": "https://img.cintamobil.com/crop/640x360/2021/02/22/20210222081213-f22f.jpg",
+            "harga": "Rp. 199.000.000",
+            "spec": {
+                "Transmisi": "Matic",
+                "Warna": "Orange",
+                "Kilometer": "85.000 KM",
+                "Mesin": "2000cc",
+                "Kondisi": "Interior bersih, dokumen lengkap"
+            }
+        },
+        {
+            "id": 5,
+            "nama": "Lexus UX200 2.0 F Sport 2019",
+            "gambar": "https://bidfax.info/uploads/posts/2021-03/26/lexus-ux-2019-jthy3jbhxk2000533-img1.jpg",
+            "harga": "Rp. 790.000.000",
+            "spec": {
+                "Transmisi": "Matic + Paddle shift",
+                "Warna": "Putih",
+                "Kilometer": "10.000 KM",
+                "Mesin": "2000cc",
+                "Kondisi": "Mesin terawat, Kondisi mulus"
+            }
+        },
+        {
+            "id": 6,
+            "nama": "Toyota Avanza 1.3 G 2016",
+            "gambar": "https://img.cintamobil.com/2017/06/14/ba965f484-6d45.jpg",
+            "harga": "Rp. 122.000.000",
+            "spec": {
+                "Transmisi": "Manual",
+                "Warna": "Biru",
+                "Kilometer": "70.000 KM",
+                "Mesin": "1300cc",
+                "Kondisi": "Kondisi masih utuh, full variasi"
+            }
+        },
+        {
+            "id": 7,
+            "nama": "Honda CR-V 2.4 i-VTEC 2010",
+            "gambar": "https://media.karousell.com/media/photos/products/2018/09/09/honda_crv_2010_matic_1536508096_93255804_progressive.jpg",
+            "harga": "Rp. 139.000.000",
+            "spec": {
+                "Transmisi": "Matic",
+                "Warna": "Ungu",
+                "Kilometer": "110.000 KM",
+                "Mesin": "2400cc",
+                "Kondisi": "Kondisi mormal, tidak bekas banjir maupun tabrak"
+            }
+        },
+        {
+            "id": 8,
+            "nama": "Nissan Elgrand 3.5 Highway Star 2013",
+            "gambar": "https://img.cintamobil.com/crop/490x310/2019/07/30/b7104818-a-1e29.jpg",
+            "harga": "Rp. 299.000.000",
+            "spec": {
+                "Transmisi": "Matic",
+                "Warna": "Hitam",
+                "Kilometer": "100.000 KM",
+                "Mesin": "3500cc",
+                "Kondisi": "Tidak bekas banjir atau tabrak"
+            }
+        }
+    ]
+}
